@@ -43,6 +43,7 @@ int main()
 
     cout << ethan::i << endl;
     cout << "Hello World!\n";
+    std::cout << "Git\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
